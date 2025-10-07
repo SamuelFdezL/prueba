@@ -1,2 +1,2 @@
 # prueba
-Conflicto
+Resuelto el conflicto
