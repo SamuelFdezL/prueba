@@ -1,2 +1,2 @@
 # prueba
-Rama main
+Resuelto el conflicto
